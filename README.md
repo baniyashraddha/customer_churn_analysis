@@ -9,6 +9,7 @@ Customer churn is an important business problem because identifying customers wh
 In this project, I explored the IBM Telco Customer Churn dataset, performed data preprocessing and exploratory analysis, and trained three machine learning models to predict customer churn.
 
 **Dataset**
+
 The dataset contains information about 7,043 customers and 21 columns, including:
 
 Customer demographics
@@ -24,6 +25,7 @@ Churn status
 The dataset is loaded directly from the IBM Telco Customer Churn dataset.
 
 **Machine Learning Models**
+
 Three classification models were trained and evaluated:
 
 Logistic Regression
@@ -31,6 +33,7 @@ Random Forest Classifier
 Gradient Boosting Classifier
 
 **Model Evaluation**
+
 The models were evaluated using:
 
 Accuracy
